@@ -1,0 +1,23 @@
+#header{
+    border: 3px solid goldenrod;
+    text-align: center;
+}
+.teamNames{
+    width:200px; /* or whatever width you want. */
+   max-width:200px; /* or whatever width you want. */
+   display: inline-block;
+}
+.teamDropDown{
+    display: inline;
+}
+.container{
+    margin-top: 10px;
+    margin-left: 450px;
+    border: 2px solid rosybrown;
+    padding:10px;
+    width: 400px;
+}
+
+select, option {
+    width:100px;
+}
